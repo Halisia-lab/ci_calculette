@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5cacb52-0acd-4fb4-8d1b-c585263d1c51" name="Default Changelist" comment="" />
+    <list default="true" id="c5cacb52-0acd-4fb4-8d1b-c585263d1c51" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cours1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cours1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Calculette.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Calculette.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/CalculetteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/CalculetteTest.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,13 +23,18 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1qw5OMSMeA4KYSCpIMpZvDJwTbh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -53,7 +65,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CalculetteTest.testCalculetteAvg">
+  <component name="RunManager" selected="JUnit.CalculetteTest (1)">
+    <configuration name="CalculetteTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cours1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculetteTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CalculetteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TESTS_UNITAIRES" />
       <extension name="coverage">
@@ -99,23 +120,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculetteTest.testCalculetteSub" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TESTS_UNITAIRES" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CalculetteTest" />
-      <option name="METHOD_NAME" value="testCalculetteSub" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CalculetteTest (1)" />
         <item itemvalue="JUnit.CalculetteTest.testCalculetteAvg" />
         <item itemvalue="JUnit.CalculetteTest" />
         <item itemvalue="JUnit.CalculetteTest.testCalculetteDiv" />
         <item itemvalue="JUnit.CalculetteTest.testAddNominal" />
-        <item itemvalue="JUnit.CalculetteTest.testCalculetteSub" />
       </list>
     </recent_temporary>
   </component>
@@ -131,5 +142,16 @@
       <updated>1617977778481</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

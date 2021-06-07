@@ -1,9 +1,6 @@
 import org.junit.Assert;
 import org.junit.Test;
-import org.junit.rules.ExpectedException;
 
-import java.util.ArrayList;
-import java.util.List;
 
 public class CalculetteTest {
     @Test
@@ -29,6 +26,7 @@ public class CalculetteTest {
         try {
             Assert.assertEquals(3, Calculette.div(9, 3), 0.01);
             Assert.assertEquals(0, Calculette.div(5, 0), 0.01);
+            Assert.assertEquals(-5, Calculette.div(10, -2), 0.01);
         }
         catch (Exception e) {
             final String expected = "Division par zero";
