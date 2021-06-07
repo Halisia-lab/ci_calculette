@@ -16,11 +16,11 @@ public class Calculette {
     }
 
     public static double div (int a, int b) throws Exception {
-        if(b != 0) {
+        //if(b != 0) {
             return a/b;
-        } else {
-            throw new Exception("Division par zero");
-        }
+        //} else {
+           // throw new Exception("Division par zero");
+        //}
     }
 
     public static double avg(int[] tab) throws Exception {
